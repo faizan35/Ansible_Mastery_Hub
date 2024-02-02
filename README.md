@@ -1,4 +1,4 @@
-# Ansible Mastery Hub
+# Ansible Mastery Hub <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="35">
 
 Ansible Learning Repository Welcome to the Ansible Learning Repository! This repository is designed to help you learn Ansible, an open-source automation tool, and enhance your skills in managing infrastructure, automating tasks, and streamlining DevOps workflows.
 
