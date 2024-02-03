@@ -37,13 +37,13 @@ The learning material is organized into modular structures, covering different a
 - 2.1.1 Syntax
 - 2.1.2 Best Practices
 
-##### 2.2 Variables and Facts in Ansible
+##### [2.2 Variables and Facts in Ansible](./Module-2/2.2-Variables-Facts-Ansible.md)
 
-##### 2.3 Ansible Roles:
+##### [2.3 Ansible Roles](./Module-2/2.3-Ansible-Roles.md)
 
 - 2.3.1 Organizing Playbook Logic
 - 2.3.2 Ansible Galaxy: Using and Creating Roles
-- 2.3.3 Templating with Jinja2 in Ansible
+- 2.3.3 Templating with **Jinja2** in Ansible
 
 ### Module 3: Ansible Modules and Handlers
 
