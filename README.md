@@ -14,38 +14,38 @@ Before diving into this Ansible learning repository, make sure you have the foll
 
 The learning material is organized into modular structures, covering different aspects of Ansible. Each module includes sub-modules, ensuring a detailed and comprehensive learning experience.
 
-**Module 1: Introduction to Ansible and Automation**
+### Module 1: Introduction to Ansible and Automation
 
-1.1 Overview of Configuration Management and Automation
+##### [1.1 Overview of Configuration Management and Automation](./Module-1/1.1-Overview-Configuration-Management-Automation.md)
 
-1.2 Introduction to Ansible:
+##### [1.2 Introduction to Ansible](./Module-1/1.2-Introduction-Ansible.md)
 
 - 1.2.1 History
 - 1.2.2 Architecture
 - 1.2.3 Key Components
 
-  1.3 Installing and Configuring Ansible
+##### [1.3 Installing and Configuring Ansible](./Module-1/1.3-Installing-Configuring-Ansible.md)
 
-  1.4 Ansible Inventories and Host Patterns
+##### [1.4 Inventories and Host Patterns](./Module-1/1.4-Ansible-Inventories-Host-Patterns.md)
 
-  1.5 Ansible Ad-Hoc Commands
+##### [1.5 Ad-Hoc Commands](./Module-1/1.5-Ad-Hoc-Commands.md)
 
-**Module 2: Ansible Playbooks and Roles**
+### Module 2: Ansible Playbooks and Roles
 
-2.1 Writing Ansible Playbooks:
+##### [2.1 Writing Ansible Playbooks](./Module-2/2.1-Overview-Configuration-Management-Automation.md)
 
 - 2.1.1 Syntax
 - 2.1.2 Best Practices
 
-  2.2 Variables and Facts in Ansible
+##### 2.2 Variables and Facts in Ansible
 
-  2.3 Ansible Roles:
+##### 2.3 Ansible Roles:
 
 - 2.3.1 Organizing Playbook Logic
 - 2.3.2 Ansible Galaxy: Using and Creating Roles
 - 2.3.3 Templating with Jinja2 in Ansible
 
-**Module 3: Ansible Modules and Handlers**
+### Module 3: Ansible Modules and Handlers
 
 3.1 Ansible Modules:
 
@@ -140,3 +140,63 @@ If you find any issues, have suggestions for improvement, or want to contribute 
 This Ansible Learning Repository is licensed under the [MIT License](./LICENSE).
 
 Happy learning!
+
+---
+
+1.  **Introduction to Ansible:**
+
+    - What is Ansible and why use it?
+    - Ansible architecture and components.
+    - Installing and configuring Ansible.
+
+2.  **Ansible Playbooks:**
+
+    - Writing your first playbook.
+    - Understanding YAML syntax.
+    - Defining hosts and tasks.
+
+3.  **Inventory Management:**
+
+    - Exploring different inventory formats.
+    - Dynamic inventories.
+
+4.  **Roles in Ansible:**
+
+    - Organizing your playbooks with roles.
+    - Creating reusable and modular playbooks.
+
+5.  **Variables and Facts:**
+
+    - Working with variables in Ansible.
+    - Ansible facts and how to use them.
+
+6.  **Handlers:**
+
+    - Understanding and using handlers.
+    - Controlling when handlers are triggered.
+
+7.  **Ansible Modules:**
+
+    - Exploring commonly used Ansible modules.
+    - Writing custom modules.
+
+8.  **Working with Templates:**
+
+    - Using Jinja2 templates in Ansible.
+    - Templating best practices.
+
+9.  **Ansible Vault:**
+
+    - Securing sensitive data with Ansible Vault.
+    - Encrypting and decrypting files.
+
+10. **Integration with Version Control:**
+
+    - Using Ansible with Git for version control.
+    - Managing playbooks and roles in a Git repository.
+
+11. **Advanced Ansible Topics:**
+
+    - Ansible Tower/AWX for orchestration and automation.
+    - Ansible Galaxy for sharing roles.
+    - Best practices for large-scale deployments.
