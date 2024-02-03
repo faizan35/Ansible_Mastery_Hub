@@ -99,15 +99,15 @@ The learning material is organized into modular structures, covering different a
 
 ### Module 7: Advanced Topics in Ansible
 
-##### 7.1 Ansible and Network Automation
+##### [7.1 Ansible and Network Automation](./Module-7/7.1-Ansible-Network-Automation.md)
 
-##### 7.2 Ansible and Infrastructure as Code (IaC)
+##### [7.2 Ansible and Infrastructure as Code (IaC)](./Module-7/7.2-Ansible-Infrastructure-as-Code.md)
 
-##### 7.3 Ansible and Monitoring/Logging Tools Integration
+##### [7.3 Ansible and Monitoring/Logging Tools Integration](./Module-7/7.3-Ansible-Monitoring-Logging.md)
 
-##### 7.4 Performance Tuning and Optimization in Ansible
+##### [7.4 Performance Tuning and Optimization in Ansible](./Module-7/7.4-Performance-Tuning-Optimization-Ansible.md)
 
-##### 7.5 Advanced Ansible Troubleshooting
+##### [7.5 Advanced Ansible Troubleshooting](./Module-7/7.5-Advanced-Ansible-Troubleshooting.md)
 
 ### Module 8: Real-world Projects and Best Practices
 
