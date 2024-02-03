@@ -39,7 +39,9 @@ The learning material is organized into modular structures, covering different a
 
 ##### [2.2 Variables and Facts in Ansible](./Module-2/2.2-Variables-Facts-Ansible.md)
 
-##### [2.3 Ansible Roles](./Module-2/2.3-Ansible-Roles.md)
+##### [2.3 Running Ansible Playbooks](./Module-2/2.3-Running-Ansible-Playbooks.md)
+
+##### [2.4 Ansible Roles](./Module-2/2.4-Ansible-Roles.md)
 
 - 2.3.1 Organizing Playbook Logic
 - 2.3.2 Ansible Galaxy: Using and Creating Roles
@@ -47,27 +49,27 @@ The learning material is organized into modular structures, covering different a
 
 ### Module 3: Ansible Modules and Handlers
 
-3.1 Ansible Modules:
+##### [3.1 Ansible Modules](./Module-3/3.1-Ansible-Modules.md)
 
 - 3.1.1 Core and Custom Modules
 - 3.1.2 Managing Files, Packages, and Services with Ansible
 - 3.1.3 Managing Users and Permissions
 
-  3.2 Handlers:
+##### [3.2 Handlers](./Module-3/3.2-Handlers.md)
 
 - 3.2.1 Triggering Actions on Changes
 - 3.2.2 Error Handling and Troubleshooting in Ansible
 
-**Module 4: Ansible Vault and Security Best Practices**
+### Module 4: Ansible Vault and Security Best Practices
 
-4.1 Ansible Vault:
+##### 4.1 Ansible Vault:
 
 - 4.1.1 Encrypting and Securing Sensitive Data
 - 4.1.2 Managing Secrets with Ansible Vault
 
-  4.2 Security Best Practices for Ansible
+##### 4.2 Security Best Practices for Ansible
 
-  4.3 Integrating Ansible with Identity and Access Management (IAM)
+##### 4.3 Integrating Ansible with Identity and Access Management (IAM)
 
 **Module 5: Ansible Tower and Automation Workflows**
 
