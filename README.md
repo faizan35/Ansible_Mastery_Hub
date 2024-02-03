@@ -73,15 +73,15 @@ The learning material is organized into modular structures, covering different a
 
 ### Module 5: Ansible Tower and Automation Workflows
 
-##### 5.1 Introduction to Ansible Tower
+##### [5.1 Introduction to Ansible Tower](./Module-5/5.1-Introduction-Ansible-Tower.md)
 
-##### 5.2 Installing and Configuring Ansible Tower
+##### [5.2 Installing and Configuring Ansible Tower](./Module-5/5.2-Installing-Ansible-Tower.md)
 
-##### 5.3 Role-Based Access Control (RBAC) in Ansible Tower
+##### [5.3 Role-Based Access Control (RBAC) in Ansible Tower](./Module-5/5.3-RBAC-Ansible-Tower.md)
 
-##### 5.4 Creating and Managing Job Templates
+##### [5.4 Creating and Managing Job Templates](./Module-5/5.4-Creating-Managing-Job.md)
 
-##### 5.5 Ansible Tower API and Automation Workflows
+##### [5.5 Ansible Tower API and Automation Workflows](./Module-5/5.5-Ansible-Tower-API-Automation-Workflows.md)
 
 ### Module 6: Dynamic Inventories and Integrations
 
@@ -97,29 +97,29 @@ The learning material is organized into modular structures, covering different a
 
 ##### 6.3 Continuous Integration/Continuous Deployment (CI/CD) with Ansible
 
-**Module 7: Advanced Topics in Ansible**
+### Module 7: Advanced Topics in Ansible
 
-7.1 Ansible and Network Automation
+##### 7.1 Ansible and Network Automation
 
-7.2 Ansible and Infrastructure as Code (IaC)
+##### 7.2 Ansible and Infrastructure as Code (IaC)
 
-7.3 Ansible and Monitoring/Logging Tools Integration
+##### 7.3 Ansible and Monitoring/Logging Tools Integration
 
-7.4 Performance Tuning and Optimization in Ansible
+##### 7.4 Performance Tuning and Optimization in Ansible
 
-7.5 Advanced Ansible Troubleshooting
+##### 7.5 Advanced Ansible Troubleshooting
 
-**Module 8: Real-world Projects and Best Practices**
+### Module 8: Real-world Projects and Best Practices
 
-8.1 Case Studies:
+##### 8.1 Case Studies:
 
 - 8.1.1 Implementing Ansible in Real-world Scenarios
 
-  8.2 Best Practices for Large-scale Ansible Deployments
+##### 8.2 Best Practices for Large-scale Ansible Deployments
 
-  8.3 Ansible Code Reviews and Collaboration
+##### 8.3 Ansible Code Reviews and Collaboration
 
-  8.4 Final Project:
+##### 8.4 Final Project:
 
 - 8.4.1 Designing an Ansible Automation Solution
 
