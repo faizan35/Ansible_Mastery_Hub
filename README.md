@@ -85,17 +85,17 @@ The learning material is organized into modular structures, covering different a
 
 ### Module 6: Dynamic Inventories and Integrations
 
-##### 6.1 Dynamic Inventories:
+##### [6.1 Dynamic Inventories](./Module-6/6.1-Dynamic-Inventories.md)
 
 - 6.1.1 Connecting to External Systems
 - 6.1.2 Integrating Ansible with Cloud Providers (AWS, Azure, GCP)
 
-##### 6.2 Using Ansible with Containers:
+##### [6.2 Using Ansible with Containers](./Module-6/6.2-Using-Ansible-Containers.md)
 
 - 6.2.1 Docker
 - 6.2.2 Kubernetes
 
-##### 6.3 Continuous Integration/Continuous Deployment (CI/CD) with Ansible
+##### [6.3 Continuous Integration/Continuous Deployment (CI/CD) with Ansible](./Module-6/6.3-CI-CD-with-Ansible.md)
 
 ### Module 7: Advanced Topics in Ansible
 
