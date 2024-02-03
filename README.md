@@ -111,15 +111,15 @@ The learning material is organized into modular structures, covering different a
 
 ### Module 8: Real-world Projects and Best Practices
 
-##### 8.1 Case Studies:
+##### [8.1 Case Studies](./Module-8/8.1-Case-Study.md)
 
 - 8.1.1 Implementing Ansible in Real-world Scenarios
 
-##### 8.2 Best Practices for Large-scale Ansible Deployments
+##### [8.2 Best Practices for Large-scale Ansible Deployments](./Module-8/8.2-Best-Practices-Large-scale-Deployments.md)
 
-##### 8.3 Ansible Code Reviews and Collaboration
+##### [8.3 Ansible Code Reviews and Collaboration](./Module-8/8.3-Ansible-Code-Reviews-Collaboration.md)
 
-##### 8.4 Final Project:
+##### [8.4 Final Project:](./Module-8/8.4-Final_project.md)
 
 - 8.4.1 Designing an Ansible Automation Solution
 
